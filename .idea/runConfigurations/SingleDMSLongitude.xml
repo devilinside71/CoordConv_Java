@@ -2,7 +2,7 @@
   <configuration default="false" name="SingleDMSLongitude" type="Application" factoryName="Application">
     <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-    <option name="MAIN_CLASS_NAME" value="hmei.nmrd.Main" />
+    <option name="MAIN_CLASS_NAME" value="Main" />
     <module name="CoordConv_Java" />
     <option name="PROGRAM_PARAMETERS" value="&quot;69°18'25.33\&quot;E&quot;" />
     <method v="2">

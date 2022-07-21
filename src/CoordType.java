@@ -1,5 +1,3 @@
-package hmei.nmrd;
-
 /**
  * Created on 2022-07-17
  *

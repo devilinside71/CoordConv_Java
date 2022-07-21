@@ -4,8 +4,6 @@
  * HM Electronics, Logistics and Property Management Private Co.
  */
 
-package hmei.nmrd;
-
 /**
  * Created on 2022-07-21
  *

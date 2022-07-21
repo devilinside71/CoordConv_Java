@@ -4,8 +4,6 @@
  * HM Electronics, Logistics and Property Management Private Co.
  */
 
-package hmei.nmrd;
-
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
